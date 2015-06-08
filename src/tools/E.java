@@ -23,7 +23,7 @@ public class E {
 	}
 
 	public static void rint(int s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(int s) {
@@ -31,7 +31,7 @@ public class E {
 	}
 
 	public static void rint(short s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(short s) {
@@ -39,7 +39,7 @@ public class E {
 	}
 
 	public static void rint(char s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(char s) {
@@ -47,7 +47,7 @@ public class E {
 	}
 
 	public static void rint(double s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(double s) {
@@ -55,7 +55,7 @@ public class E {
 	}
 
 	public static void rint(float s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(float s) {
@@ -63,7 +63,7 @@ public class E {
 	}
 
 	public static void rint(byte s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(byte s) {
@@ -71,7 +71,7 @@ public class E {
 	}
 
 	public static void rint(boolean s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 	public static void lnrint(boolean s) {
@@ -83,7 +83,7 @@ public class E {
 	}
 
 	public static void lnrint(long s) {
-		System.err.println(s);
+		System.err.print(s);
 	}
 
 }

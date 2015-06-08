@@ -19,7 +19,7 @@ public class P {
 	}
 
 	public static void rint(int s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(int s) {
@@ -27,7 +27,7 @@ public class P {
 	}
 
 	public static void rint(short s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(short s) {
@@ -35,7 +35,7 @@ public class P {
 	}
 
 	public static void rint(char s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(char s) {
@@ -43,7 +43,7 @@ public class P {
 	}
 
 	public static void rint(double s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(double s) {
@@ -51,7 +51,7 @@ public class P {
 	}
 
 	public static void rint(float s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(float s) {
@@ -59,7 +59,7 @@ public class P {
 	}
 
 	public static void rint(byte s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(byte s) {
@@ -67,7 +67,7 @@ public class P {
 	}
 
 	public static void rint(boolean s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(boolean s) {
@@ -75,7 +75,7 @@ public class P {
 	}
 
 	public static void rint(long s) {
-		System.out.println(s);
+		System.out.print(s);
 	}
 
 	public static void lnrint(long s) {
